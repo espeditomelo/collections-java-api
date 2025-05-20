@@ -1,4 +1,4 @@
-package main.java.list.set.ordenacao;
+package main.java.set.ordenacao;
 
 public class MainProduto {
     public static void main(String[] args) {

@@ -1,8 +1,5 @@
-package main.java.list.set.ordenacao;
+package main.java.set.ordenacao;
 
-import main.java.list.set.pesquisa.Contato;
-
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;

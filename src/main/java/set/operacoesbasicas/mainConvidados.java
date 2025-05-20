@@ -1,4 +1,4 @@
-package main.java.list.set.operacoesbasicas;
+package main.java.set.operacoesbasicas;
 
 public class mainConvidados {
     public static void main(String[] args) {

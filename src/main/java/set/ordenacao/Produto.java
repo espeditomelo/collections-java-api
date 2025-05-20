@@ -1,6 +1,5 @@
-package main.java.list.set.ordenacao;
+package main.java.set.ordenacao;
 
-import java.util.Comparator;
 import java.util.Objects;
 
 public class Produto implements Comparable<Produto> {

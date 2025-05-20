@@ -1,4 +1,4 @@
-package main.java.list.set.pesquisa;
+package main.java.set.pesquisa;
 
 public class mainContato {
     public static void main(String[] args) {
