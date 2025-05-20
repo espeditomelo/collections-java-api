@@ -1,13 +1,14 @@
-package main.java.map;
+package main.java.map.operacoesbasicas;
 
+import java.util.HashMap;
 import java.util.Map;
 
 public class AgendaContatos {
 
     private Map<String, Integer> agendaContato;
 
-    public AgendaContatos(Map<String, Integer> agendaContato){
-        this.agendaContato = agendaContato;
+    public AgendaContatos(){
+        this.agendaContato = new HashMap<>();
     }
 
     public void adicionarContato(String nome, Integer telefone){
